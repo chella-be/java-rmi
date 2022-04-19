@@ -1,0 +1,4 @@
+rootProject.name = 'java-rmi'
+include 'server'
+include 'client'
+
